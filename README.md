@@ -21,6 +21,9 @@ Onion Skinning (Papel Cebolla): Activa esta función para ver el dibujo anterior
 
 Modo Esculpir (Sculpt Mode): En lugar de borrar y redibujar, el autor usa herramientas como Push o Grab (como si fuera plastilina) para mover ligeramente las líneas del dibujo anterior y crear la nueva posición. Esto mantiene la consistencia del trazo perfectamente.
 
+![8049563](https://github.com/user-attachments/assets/a008d15f-3ca2-4ec8-a6e7-f944e03f5e64)
+
+
 # 4. Interpolación Automática (Sequence)
 Esta es la magia del video. Blender puede calcular el movimiento intermedio entre dos dibujos si tienen la misma cantidad de puntos.
 
